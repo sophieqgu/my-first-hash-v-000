@@ -15,8 +15,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  shipping_manifest[""]
-
+  shipping_manifest["oil paintings"]
 end
 
 def adding
@@ -25,7 +24,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  # add 2 muskets to the shipping_manifest hash below
+  shipping_manifest[""]
 
 
 
